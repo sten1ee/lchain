@@ -13,4 +13,10 @@
 1. Installed latest miniconda3 through downloading the Miniconda3-latest-MacOSX-x86_64.sh
 2. pip install  langchain  openai   chromadb  [beautifulsoap4  tiktoken]
 3. python prompt and
-4. https://shabeelkandi.medium.com/chat-with-an-excel-dataset-with-openai-and-langchain-5520ce2ac5d3
+4. https://python.langchain.com/docs/use_cases/question_answering/
+
+6.0 https://shabeelkandi.medium.com/chat-with-an-excel-dataset-with-openai-and-langchain-5520ce2ac5d3
+6.1 https://github.com/shabeelkandi/Chat-with-an-Excel-dataset-with-LangChain/blob/main/Langchain_with_CSV.ipynb
+
+7.1 https://python.langchain.com/docs/integrations/vectorstores/chroma
+7.2 https://python.langchain.com/docs/integrations/vectorstores/cassandra
